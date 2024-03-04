@@ -9,3 +9,7 @@ In this repository I post solutions or implementations of certain tasks.
 
 **6 Kyu:**
 * [Group Anagrams](https://github.com/mananex/exercises/blob/main/codewars/group_anagrams.py)
+
+**5 Kyu**
+* [Human Readable Time](https://github.com/mananex/exercises/blob/main/codewars/human_readable_time.py)
+
